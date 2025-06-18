@@ -1,6 +1,6 @@
-Diploma_Thesis-Master_Device_with_Touchscreen_Display
-Author: Andrej Klein, Milan Lacko
-Date: 2023/2024
+Diploma Thesis - Master Device with Touchscreen Display
+
+Author: Andrej Klein, Milan Lacko, 2023/2024
 __________________________________________________________________
 
 This thesis analyzes the current status and wiring of a master touchscreen device that is designed 
