@@ -1,3 +1,4 @@
+Diploma_Thesis-Master_Device_with_Touchscreen_Display
 Author: Andrej Klein, Milan Lacko
 Date: 2023/2024
 __________________________________________________________________
