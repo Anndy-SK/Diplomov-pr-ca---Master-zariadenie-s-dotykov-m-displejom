@@ -1,4 +1,4 @@
-Diploma Thesis - Master Device with Touchscreen Display
+# Diploma Thesis - Master Device with Touchscreen Display
 
 Author: Andrej Klein, Milan Lacko, 2023/2024
 __________________________________________________________________
@@ -10,10 +10,10 @@ information and schematic representations required for the design and programmin
 display and master device. The aim of the thesis is to complete the graphical user interface display 
 and program the master device with a microcontroller.
 
-Attachments for the MASTER device:
+# Attachments for the MASTER device:
 - Master_ATmega324PB.zip => Project programmed in Microchip Studio for the master device with ATmega324PB chip (C language).
 - Master_ATmega324PB_backup.zip => Project backed up from Microchip Studio using the "Export Template" function.
 
-Attachments for the NEXTION display Editor:
+# Attachments for the NEXTION display Editor:
 - Nextion_HMI.zip => Project programmed using the Nextion Editor.
 - TFT_output.zip => Output HMI file from the Nextion Editor (MainScreen.tft), for uploading to the display via microSD card.
